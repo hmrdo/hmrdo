@@ -16,12 +16,6 @@
   
 ---
 
-## 💬 Ask me about  
-- [Topics you're confident discussing, e.g., Algorithms, System Design, Debugging]  
-- [Technical interests, e.g., Linux Internals, Embedded Systems]
-
----
-
 ## 📫 How to reach me  
 - 📧 [Email](mailto:hmrdo@protonmail.com?subject=Your%20Subject&body=Body%20text)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hmrdoll)
