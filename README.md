@@ -20,11 +20,11 @@
 ---
 
 ## 📫 How to reach me  
-- 📧 Email: [Your email]  
+- 📧 [Email](hmrdo@protonmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hmrdoll)
 - 🌍 Portfolio: [insert website]
   
 ---
 
 ## ⚡ Fun fact  
-[Something unique about you! e.g., "I built my first app at 15" or "I love solving CTF challenges"]  
+
