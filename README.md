@@ -10,7 +10,7 @@
 
 ---
 
-## 🌱 I've previously worked on  
+## :hammer: I've previously worked on  
 - [project 1](project link)
 - [notable coursework](link to syllabus)
   
