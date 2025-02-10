@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 😄 About me  
-- 🎓 **Education**: University of Wisconsin–Madison, Double Major: Computer Engineering & Computer Sciences, B.S.
+- 🎓 **Education**: University of Wisconsin–Madison, Double Major: Computer Engineering & Computer Sciences, B.S. 2025.
   
 - 💡 **Interests**: Computer architecture & design, digital systems, embedded systems, full-stack development, and quantum computing.
   
