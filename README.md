@@ -1,8 +1,11 @@
 ## Hi there 👋
 ## 😄 About me  
 - 🎓 **Education**: University of Wisconsin–Madison, Double Major: Computer Engineering & Computer Sciences, B.S.
-- 💡 **Interests**: Computer architecutre & design, digital systems, embedded systems, full-stack development, and quantum computing.
+  
+- 💡 **Interests**: Computer architecture & design, digital systems, embedded systems, full-stack development, and quantum computing.
+  
 - 🛠 **Skills**: SystemVerilog, Java, C, Assembly, Python, HTML & CSS, and software/hardware development.
+  
 - 🌱 **Currently Learning**: ECE 554: Digital Engineering Lab, CS 571: Building User Interfaces, C639: Quantum Computer Architecture, CS520: Theory of Computing.
 
 ---
