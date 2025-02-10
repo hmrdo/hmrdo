@@ -12,7 +12,7 @@
 
 ## :hammer: I've previously worked on  
 - [project 1](project link)
-- Notable coursework: [Computer Architecture](https://swamittannu.com/cs552/), [Operating Systems](https://pages.cs.wisc.edu/~shivaram/cs537-fa24/), [Microprocessor Systems](https://ece353.engr.wisc.edu/), and Machine Organization & Programming.
+- **Notable coursework:** [Computer Architecture](https://swamittannu.com/cs552/), [Operating Systems](https://pages.cs.wisc.edu/~shivaram/cs537-fa24/), [Microprocessor Systems](https://ece353.engr.wisc.edu/), and Machine Organization & Programming.
   
 ---
 
