@@ -23,7 +23,7 @@
 ---
 
 ## 📫 How to reach me  
-- 📧 [Email](mailto:hmrdo@protonmail.com)
+- 📧 [Email](mailto:hmrdo@protonmail.com?subject=Your%20Subject&body=Body%20tex)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hmrdoll)
   
 ---
