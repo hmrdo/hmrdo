@@ -11,7 +11,8 @@
 ---
 
 ## :hammer: I've previously worked on  
-- [project 1](project link)
+- [Pipelined Processor with Associative Cache](https://github.com/fuzzy41316/ECE552-Pipelined-Processor)
+- 
 - **Notable coursework:** [Computer Architecture](https://swamittannu.com/cs552/), [Operating Systems](https://pages.cs.wisc.edu/~shivaram/cs537-fa24/), [Microprocessor Systems](https://ece353.engr.wisc.edu/), and [Artifical Intelligence](https://pages.cs.wisc.edu/~gkotse/cs540_website/index.html).
   
 ---
