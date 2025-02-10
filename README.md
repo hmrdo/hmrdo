@@ -25,9 +25,8 @@
 ## 📫 How to reach me  
 - 📧 [Email](hmrdo@protonmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hmrdoll)
-- 🌍 Portfolio: [insert website]
   
 ---
 
-## ⚡ Fun fact  
+## ⚡ Fun facts  
 
