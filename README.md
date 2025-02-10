@@ -23,7 +23,7 @@
 ---
 
 ## 📫 How to reach me  
-- 📧 Email: (hmrdo@protonmail.com)
+- 📧 [Email](mailto:hmrdo@protonmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hmrdoll)
   
 ---
