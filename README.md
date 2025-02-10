@@ -12,7 +12,7 @@
 
 ## :hammer: I've previously worked on  
 - [project 1](project link)
-- [notable coursework](link to syllabus)
+- Notable coursework: [Digital Engineering](), [Operating Systems](https://pages.cs.wisc.edu/~shivaram/cs537-fa24/), [Computer Architecture](https://swamittannu.com/cs552/), 
   
 ---
 
