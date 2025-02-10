@@ -6,7 +6,7 @@
   
 - 🛠 **Skills**: SystemVerilog, Java, C, Assembly, Python, HTML & CSS, and software/hardware development.
   
-- 🌱 **Currently Learning**: ECE 554: Digital Engineering Lab, CS 571: Building User Interfaces, C639: Quantum Computer Architecture, CS520: Theory of Computing.
+- 🌱 **Currently Learning**: ECE 554: Digital Engineering Lab, CS 571: Building User Interfaces, C639: Quantum Computer Architecture, and CS520: Theory of Computing.
 
 ---
 
