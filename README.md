@@ -11,10 +11,10 @@
 ---
 
 ## :hammer: I've previously worked on  
-- [5-Stage Pipelined Processor](https://github.com/fuzzy41316/ECE552-Pipelined-Processor)
-- [Fuse Filesystem](https://github.com/fuzzy41316/CS537-FUSE-Filesysten)
-- [Letter-Boxed Game](https://github.com/fuzzy41316/CS537-Letter-Boxed-Game)
-- [WSH Unix Shell](https://github.com/fuzzy41316/CS537-Unix-Shell-WSH)
+- 🔄[5-Stage Pipelined Processor](https://github.com/fuzzy41316/ECE552-Pipelined-Processor)
+- 📁[Fuse Filesystem](https://github.com/fuzzy41316/CS537-FUSE-Filesysten)
+- 🎮[Letter-Boxed Game](https://github.com/fuzzy41316/CS537-Letter-Boxed-Game)
+- 📟[WSH Unix Shell](https://github.com/fuzzy41316/CS537-Unix-Shell-WSH)
 - **Notable coursework:** [Computer Architecture](https://swamittannu.com/cs552/), [Operating Systems](https://pages.cs.wisc.edu/~shivaram/cs537-fa24/), [Microprocessor Systems](https://ece353.engr.wisc.edu/), and [Artifical Intelligence](https://pages.cs.wisc.edu/~gkotse/cs540_website/index.html).
   
 ---
