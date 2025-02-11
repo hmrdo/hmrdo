@@ -11,7 +11,7 @@
 ---
 
 ## :hammer: I've previously worked on  
-- 🔄 [5-Stage Pipelined Processor](https://github.com/fuzzy41316/ECE552-Pipelined-Processor)
+- 🔄 [5-Stage Pipelined Processor](https://github.com/fuzzy41316/ECE552-5-Stage-Pipelined-Processor)
 - 📁 [Fuse Filesystem](https://github.com/fuzzy41316/CS537-FUSE-Filesysten)
 - 🎮 [Letter-Boxed Game](https://github.com/fuzzy41316/CS537-Letter-Boxed-Game)
 - 📟 [WSH Unix Shell](https://github.com/fuzzy41316/CS537-Unix-Shell-WSH)
