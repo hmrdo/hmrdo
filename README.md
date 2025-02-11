@@ -22,8 +22,3 @@
 ## 📫 How to reach me  
 - 📧 [Email](mailto:hmrdo@protonmail.com?subject=Your%20Subject&body=Body%20text) or **hmrdo@protonmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/hmrdoll)
-  
----
-
-## ⚡ Fun facts  
-
