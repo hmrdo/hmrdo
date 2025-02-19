@@ -4,7 +4,7 @@
   
 - 💡 **Interests**: Computer architecture & design, digital systems, embedded systems, full-stack development, and quantum computing.
   
-- 🛠 **Skills**: SystemVerilog, Java, C, Assembly, Python, HTML & CSS, and software/hardware development.
+- 🛠 **Languages**: SystemVerilog, Java, C, Assembly, Python, HTML, CSS, JavaScript, and React.
   
 - 🌱 **Currently Learning**: [ECE 554: Digital Engineering Lab](/ece554.pdf), [CS 571: Building User Interfaces](/cs571.pdf), [CS639: Quantum Computer Architecture](/cs639.pdf), and [CS520: Theory of Computing](/cs520.pdf).
 
