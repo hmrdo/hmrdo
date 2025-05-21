@@ -12,8 +12,9 @@
 
 ## 📓 Projects and Courses
 - 🏆 [Air Defense System](https://github.com/hmrdo/ECE554-Capstone-Project) <br>
-  *Won the Capstone Design Excellence Award (Under Team Phantom Photons)* [shown here](https://engineering.wisc.edu/blog/student-innovation-and-alumni-experience-converge-at-ece-capstone-design-open-house/)
-  [alt text](/Winning.jpg "Award")
+  *Won the Capstone Design Excellence Award (Under Team Phantom Photons)* <br>
+  ![alt text](Winning.jpg "Award") <br>
+  [Student innovation and alumni experience converge at ECE Capstone Design Open House](https://engineering.wisc.edu/blog/student-innovation-and-alumni-experience-converge-at-ece-capstone-design-open-house/)
 - 🔄 [5-Stage Pipelined Processor](https://github.com/fuzzy41316/ECE552-5-Stage-Pipelined-Processor)
 - 📁 [Fuse Filesystem](https://github.com/fuzzy41316/CS537-FUSE-Filesysten)
 - 🎮 [Letter-Boxed Game](https://github.com/fuzzy41316/CS537-Letter-Boxed-Game)
@@ -26,4 +27,4 @@
 ## 📫 How to reach me  
 - 📧 [Email](mailto:hmrdo@protonmail.com?subject=Your%20Subject&body=Body%20text) or **hmrdo@protonmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/hmrdoll)
-- 📑 [Resume](/resumewogpa.pdf)
+- 📑 [Resume](resumewogpa.pdf)
