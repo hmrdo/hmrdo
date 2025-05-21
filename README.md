@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm [Harrison](https://github.com/hmrdo) 👋
 ## 😄 About me  
 - 🎓 **Education**: University of Wisconsin–Madison, Double Major: Computer Engineering & Computer Sciences, B.S.E 2025. <br>
 
