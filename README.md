@@ -21,7 +21,7 @@
 <img src="skill.gif" width="3%"/> ***Skills*** 
 -----
 ###### Languages:
-![Alt Text](python.svg)  ![Alt Text](javascript.svg)  ![Alt Text](html.svg)  ![Alt Text](css.svg)  ![Alt Text](c++.svg)  ![Alt Text](csharp.svg)  ![Alt Text](c.svg)  ![Alt Text](java.svg)  ![Alt Text](json.svg)  ![Alt Text](shellscript.svg)  ![Alt Text](powershell.svg)  ![Alt Text](systemverilog.svg)  ![Alt Text](matlab.svg)
+![Alt Text](python.svg)  ![Alt Text](javascript.svg)  ![Alt Text](html.svg)  ![Alt Text](css.svg)  ![Alt Text](c.svg)  ![Alt Text](java.svg)  ![Alt Text](json.svg)  ![Alt Text](shellscript.svg)  ![Alt Text](powershell.svg)  ![Alt Text](systemverilog.svg)  ![Alt Text](matlab.svg)
 
 ###### Frontend Deployment & Frameworks:
 ![Alt Text](react.svg)  ![Alt Text](reactnative.svg)  ![Alt Text](bootstrap.svg)  ![Alt Text](figma.svg)  ![Alt Text](expo.svg)
@@ -30,10 +30,10 @@
 ![Alt Text](expressjs.svg)  ![Alt Text](junit5.svg)
 
 ###### Deployment & Cloud:
-![Alt Text](docker.svg)  ![Alt Text](kubernetes.svg)  ![Alt Text](microsoftazure.svg)  ![Alt Text](githubpage.svg)
+![Alt Text](docker.svg)  ![Alt Text](microsoftazure.svg)  ![Alt Text](githubpage.svg)
 
 ###### Database Management:
-![Alt Text](sqlite.svg)  ![Alt Text](mysql.svg)
+![Alt Text](sqlite.svg) 
 
 ###### Development Tools:
 ![Alt Text](npm.svg)  ![Alt Text](postman.svg)  ![Alt Text](jupyter.svg)  ![Alt Text](git.svg)  ![Alt Text](github.svg)  ![Alt Text](altium.svg)  ![Alt Text](quartus.svg)
