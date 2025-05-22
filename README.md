@@ -16,7 +16,6 @@
   <a href="resumewogpa.pdf"><img src="resume.svg"/></a>
   <a href="mailto:hmrdo@protonmail.com"><img src="protonmail.svg"/></a>
   <a href="https://www.linkedin.com/in/hmrdoll/"><img src="linkedin.svg"/></a>
-  <a href="https://leetcode.com/u/hmrdo/"><img src="leetcode.svg"/></a>
 </p>
 
 <img src="skill.gif" width="3%"/> ***Skills*** 
