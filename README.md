@@ -39,7 +39,7 @@
 ![Alt Text](npm.svg)  ![Alt Text](postman.svg)  ![Alt Text](jupyter.svg)  ![Alt Text](git.svg)  ![Alt Text](github.svg)  ![Alt Text](altium.svg)  ![Alt Text](quartus.svg)
 
 ###### Development Environments:
-![Alt Text](visualstudiocode.svg)  ![Alt Text](vim.svg)  ![Alt Text](intellij.svg)  ![Alt Text](arduino.svg)  ![Alt Text](gnubash.svg)
+![Alt Text](visualstudiocode.svg)  ![Alt Text](vim.svg)  ![Alt Text](intellij.svg)  ![Alt Text](arduinoide.svg)  ![Alt Text](gnubash.svg)
 
 ###### Operating Systems / Platforms:
 ![Alt Text](windows.svg)  ![Alt Text](linux.svg)
