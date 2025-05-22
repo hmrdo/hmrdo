@@ -42,7 +42,7 @@
 ![Alt Text](visualstudiocode.svg)  ![Alt Text](vim.svg)  ![Alt Text](intellij.svg)  ![Alt Text](arduinoide.svg)  ![Alt Text](gnubash.svg)
 
 ###### Operating Systems / Platforms:
-![Alt Text](windows.svg)  ![Alt Text](linux.svg)
+![Alt Text](windows.svg)  ![Alt Text](linux.svg)  ![Alt Text](arduino.svg)  ![Alt Text](raspberrypi.svg)
 
 <img src="working.gif" width="4%"/> ***Best Work*** 
 -----
